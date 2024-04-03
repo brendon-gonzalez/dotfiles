@@ -60,6 +60,9 @@ return {
     end,
   },
   {
+    'f-person/git-blame.nvim',
+  },
+  {
     "CopilotC-Nvim/CopilotChat.nvim",
     branch = "canary",
     dependencies = {
